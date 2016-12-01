@@ -1,0 +1,9 @@
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x64\Debug\NotepadPP.exe.config
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x64\Debug\NotepadPP.exe
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x64\Debug\NotepadPP.pdb
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x64\Debug\NotepadPP.csprojResolveAssemblyReference.cache
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x64\Debug\NotepadPP.Form1.resources
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x64\Debug\NotepadPP.Properties.Resources.resources
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x64\Debug\NotepadPP.csproj.GenerateResource.Cache
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x64\Debug\NotepadPP.exe
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x64\Debug\NotepadPP.pdb

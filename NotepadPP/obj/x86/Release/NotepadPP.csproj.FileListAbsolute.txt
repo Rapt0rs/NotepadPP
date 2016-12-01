@@ -1,0 +1,14 @@
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\NotepadPP.exe.config
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\NotepadPP.exe
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\NotepadPP.pdb
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x86\Release\NotepadPP.Form1.resources
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x86\Release\NotepadPP.Properties.Resources.resources
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x86\Release\NotepadPP.csproj.GenerateResource.Cache
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x86\Release\NotepadPP.exe
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\obj\x86\Release\NotepadPP.pdb
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\SharpDX.Direct2D1.dll
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\SharpDX.dll
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\SharpDX.DXGI.dll
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\SharpDX.xml
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\SharpDX.Direct2D1.xml
+E:\DesolationREDUX\Assets\NotepadPP\NotepadPP\bin\x86\Release\SharpDX.DXGI.xml
