@@ -156,10 +156,10 @@ namespace NotepadPP.DirectX {
 
             foreach(Entity ent in getEntities(c)) {
                 float[] screenPos = new float[] { 0, 0 };
-                if (ent.team != 0 && ent.team != c.me.team && ent.health > 0 && ent.Position != null && ent.distance <= 15.0f) {
-                    c.GlowEntity(ent);
+                if (ent.team != 0 && ent.team != c.me.team && ent.health > 0 && ent.Position != null) {
                     ent.Position[2] += 80.0f;
-                    if (worldToScreen(c, ent.Position, out screenPos)) {
+                    if (worldToScreen(c, ent.Position, out screenPos) && ent.distance <= 15.0f) {
+                        c.GlowEntity(ent);
                         overlay.Graphics.DrawText("Enemy | " + Math.Round(ent.distance,0).ToString() + "m", fontSmall, redBrush, (int)screenPos[0] - 33, (int)screenPos[1]);
                         overlay.Graphics.FillRectangle((int)screenPos[0] - 33, (int)screenPos[1] - 8, (int)(66.0 * (ent.health / 100.0)), 5, redBrush);
                         overlay.Graphics.DrawRectangle((int)screenPos[0] - 33, (int)screenPos[1] - 8, 66, 5, 1, blackBrush2);
